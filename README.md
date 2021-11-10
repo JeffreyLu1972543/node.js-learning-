@@ -1,7 +1,7 @@
 # node.js-learning-
 The content of this repository is basically the practice of what I‘ve been learned about node.js this week
 
-#understand the definition:    
+# understand the definition:    
   client & server.   
   ip addresses & domain.   
   localhost & port number. 
